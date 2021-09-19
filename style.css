@@ -1,0 +1,42 @@
+/*c'est dans ce fichier que l'on code le style de la page html */
+/*body{
+  display: flex;
+  flex-direction: column;
+}
+
+h1{
+  color: red;
+  text-align: center;
+}
+h2{
+  color :blue;
+  \text-align: center;
+}
+a{
+  color: blue;
+  font-size: 18px;
+  text-align: center;
+  margin: auto;
+  text-decoration: none;
+}
+a:hover{
+  background-color: blue;
+  color: white;
+}
+img{
+  margin-top: -15%;
+  scale:0.5;
+    -webkit-transition:-webkit-transform .9s;
+  -moz-transition:-moz-transform .9s;
+  -o-transition:-o-transform .9s;
+  -ms-transition:-ms-transform .9s;
+  transition:transform .9s;
+}
+img:hover{
+  -webkit-transform:rotate(360deg);
+  -moz-transform:rotate(360deg);
+  -o-transform:rotate(360deg);
+  -ms-transform:rotate(360deg);
+  transform:rotate(360deg);
+}*/
+
